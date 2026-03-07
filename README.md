@@ -17,10 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="right">
-  <img alt="Drone" width="160" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
-  <img alt="Coding" width="160" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
-</div>
+<img align="right" alt="AI Neural Network" width="320" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 <table>
   <tr>
