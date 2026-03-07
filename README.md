@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Venkata Sai and I'm an AI/ML and electronics enthusiast, studyingallabhbbhai National Institute of Technology, Surat.</h2>
+<h2 align="left">Hi 👋! My name is Venkata Sai and I'm an AI/ML and electronics enthusiast studying in SVNIT.</h2>
 
 ###
 
