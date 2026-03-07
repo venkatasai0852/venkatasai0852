@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Venkata%20Sai%20Thota&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20ECE%20Enthusiast%20%7C%20Agentic%20AI%20Explorer&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2F+ML+%2B+Electronics+%3D+%E2%9A%A1;Learning+Agentic+AI+every+day+%F0%9F%8C%B1;SVNIT+Surat+%7C+ECE+Undergrad+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2F+ML+%2B+Electronics+%3D+%E2%9A%A1;SVNIT+Surat+%7C+ECE+Undergrad+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,35 +17,38 @@
 
 ## 👨‍💻 About Me
 
-```python
-class VenkataSai:
-    def __init__(self):
-        self.name        = "Thota Venkata Sai"
-        self.university  = "SVNIT Surat — Electronics & Communication Engineering"
-        self.interests   = ["Artificial Intelligence", "Machine Learning", "Agentic AI", "Embedded Systems"]
-        self.tools       = ["Python", "PyTorch", "TensorFlow", "OpenCV", "Arduino", "MATLAB"]
-        self.currently   = "🚀 Diving deep into Agentic AI & Autonomous Systems"
-        self.goal        = "Merge AI intelligence with real-world hardware 🤖⚡"
-        self.contact     = "saiv8301@gmail.com"
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-
-me = VenkataSai()
-me.say_hi()
-```
-
-<br/>
-
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-- 🎓 &nbsp; Studying at **Sardar Vallabhbhai National Institute of Technology, Surat**
-- 🔬 &nbsp; Passionate about **AI/ML at the edge** — bringing intelligence to hardware
-- 🌱 &nbsp; Currently mastering **Agentic AI** and autonomous systems
-- 🤝 &nbsp; Open to **research collaborations** and exciting ML projects
-- 💡 &nbsp; Exploring the intersection of **deep learning + embedded systems**
-- 📫 &nbsp; Reach me at **saiv8301@gmail.com**
-- ⚡ &nbsp; Fun fact: I think in tensors and dream in circuits!
+<table>
+  <tr>
+    <td>🎓 <strong>University</strong></td>
+    <td>Sardar Vallabhbhai NIT, Surat — ECE</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Focus</strong></td>
+    <td>AI / ML · Agentic AI · Embedded Systems</td>
+  </tr>
+  <tr>
+    <td>🚀 <strong>Currently</strong></td>
+    <td>Building Agentic AI &amp; Autonomous Systems</td>
+  </tr>
+  <tr>
+    <td>💡 <strong>Exploring</strong></td>
+    <td>Deep Learning × Edge Hardware</td>
+  </tr>
+  <tr>
+    <td>🤝 <strong>Open To</strong></td>
+    <td>Research Collabs &amp; Exciting ML Projects</td>
+  </tr>
+  <tr>
+    <td>📫 <strong>Contact</strong></td>
+    <td><a href="mailto:saiv8301@gmail.com">saiv8301@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Fun Fact</strong></td>
+    <td>I think in tensors and dream in circuits!</td>
+  </tr>
+</table>
 
 <br clear="both"/>
 
