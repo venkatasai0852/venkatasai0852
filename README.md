@@ -54,6 +54,21 @@
 
 ---
 
+---
+
+## 🏅 Competitions & Research
+
+<div align="center">
+
+| 🏆 Competition | 📌 Status | 📁 Code |
+|:---|:---:|:---:|
+| **NTIRE 2026 — Nighttime Image Dehazing** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon |
+| **NTIRE 2026 — Reflection Removal in the Wild** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon |
+
+</div>
+
+> 🚀 **Note:** Reproducible code, model weights, and detailed documentation for **NTIRE 2026** will be uploaded here as soon as the competition concludes. Stay tuned and ⭐ star this repo to get notified!
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -86,13 +101,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatasai0852&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="Venkata Sai's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatasai0852&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Venkata Sai's GitHub Stats"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasai0852&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=venkatasai0852&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=venkatasai0852&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -100,7 +115,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkatasai0852&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatasai0852&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
