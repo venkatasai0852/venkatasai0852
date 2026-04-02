@@ -66,7 +66,7 @@
 
 </div>
 
-> 🚀 **Note:** Reproducible code, model weights, and detailed documentation for **NTIRE 2026** will be uploaded here as soon as the competition concludes. Stay tuned and ⭐ star this repo to get notified!
+> 🔬 **Competing at CVPR 2026 · NTIRE Workshop** — Team code is live. Model weights & full write-up dropping post-competition. ⭐ Star to follow along!
 
 ## 🛠️ Tech Stack & Tools
 
