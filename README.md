@@ -66,7 +66,7 @@
 
 </div>
 
-> 🔬 **Competing at CVPR 2026 · NTIRE Workshop** — Team code & research paper are live. Model weights dropping post-competition. ⭐ Star to follow along!
+> 🔬 **Competing at CVPR 2026 · NTIRE Workshop** — Team code & research paper are live. ⭐ Star to follow along!
 
 ## 🛠️ Tech Stack & Tools
 
