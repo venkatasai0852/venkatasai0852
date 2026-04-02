@@ -60,10 +60,10 @@
 
 <div align="center">
 
-| 🏆 Competition | 📌 Status | 📁 Code |
-|:---|:---:|:---:|
-| **NTIRE 2026 — Nighttime Image Dehazing** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon |
-| **NTIRE 2026 — Reflection Removal in the Wild** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon |
+| 🏆 Competition | 📌 Status | 📁 Code | 📄 Paper |
+|:---|:---:|:---:|:---:|
+| **NTIRE 2026 — Nighttime Image Dehazing** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon | [📄 Read](https://lnkd.in/djhKU-54) |
+| **NTIRE 2026 — Reflection Removal in the Wild** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon | ⏳ Coming Soon |
 
 </div>
 
@@ -142,7 +142,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thota-venkata-sai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saiv8301@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatasai0852)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/d55fbP23)
+[![Research Paper](https://img.shields.io/badge/Research%20Paper-00897B?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://lnkd.in/djhKU-54)
 
 </div>
 
