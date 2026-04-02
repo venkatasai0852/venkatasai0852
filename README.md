@@ -62,8 +62,7 @@
 
 | 🏆 Competition | 📌 Status | 📁 Code | 📄 Paper |
 |:---|:---:|:---:|:---:|
-| **NTIRE 2026 — Nighttime Image Dehazing** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon | [📄 Read](https://lnkd.in/djhKU-54) |
-| **NTIRE 2026 — Reflection Removal in the Wild** (CVPR Workshop) | 🔄 In Progress | ⏳ Coming Soon | ⏳ Coming Soon |
+| **NTIRE 2026 — Nighttime Image Dehazing** (CVPR Workshop) | 🔄 In Progress | [💻 View Code](https://lnkd.in/d55fbP23) | [📄 Read](https://lnkd.in/djhKU-54) |
 
 </div>
 
